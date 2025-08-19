@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👨‍💻 Chaduvula Bharath Kumar | Python for Cybersecurity 🚀
+# 👨‍💻 Python for Cybersecurity 🚀
+  
 
 <img src="https://img.icons8.com/color/96/cyber-security.png" width="80"/>
 
@@ -66,10 +67,28 @@ This repo is a **learning journey tracker** — documenting my growth from funda
 
 <div align="center">
 
-## 🌍 Connect With Me
-<img src="https://img.icons8.com/color/96/networking-manager.png" width="70"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="35" height="35" /> Skills & Arsenal
+
+<div align="center">
+
+### **Languages**
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### **Systems**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
+
+
 </div>
+
+<div align="center">
+
+## 🌍 Connect With Me
 
 - 📧 Email: mr.idealspirit@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/yourname](#)  
-- 🐍 GitHub Community: [Python-Cybersecurity-Community](#)  
+- 🐍 GitHub Community: [Python-Cybersecurity-Community](#)
+  
+</div>
