@@ -1,48 +1,75 @@
-# 🐍 Python Cybersecurity Community
+<div align="center">
 
-Welcome to the **Python Cybersecurity Community** 🎯  
-We’re a group of learners, students, and professionals building **Python tools for Cybersecurity**.  
+# 👨‍💻 Chaduvula Bharath Kumar | Python for Cybersecurity 🚀
 
----
+<img src="https://img.icons8.com/color/96/cyber-security.png" width="80"/>
 
-## 📌 What We Do
-- Share **Python scripts** for security automation
-- Build **open-source tools** for SOC, Pentesting, Forensics
-- Maintain **role-specific roadmaps**
-- Collaborate on mini & major projects
+</div>
 
----
-
-## 🛠 Roles & Focus Areas
-- **SOC Analysts:** Log parsing, alert automation
-- **Penetration Testers:** Exploit dev, payloads
-- **Incident Responders:** Memory/disk forensics
-- **Malware Analysts:** Binary parsing, YARA scripts
-- **Cloud Security Engineers:** AWS/GCP/Azure SDK automation
+Welcome to my GitHub!  
+I’m currently focusing on **Cybersecurity Engineering** and using **Python** as my primary tool.  
+This repo is a **learning journey tracker** — documenting my growth from fundamentals to advanced security automation.
 
 ---
 
-## 📚 Resources
-- [Python Security Libraries](resources/libraries.md)  
-- [Cybersecurity Roadmaps](resources/roadmaps.md)  
-- [Mini Projects](resources/projects.md)
+<div align="center">
+
+## 📌 Learning Journey (Python + Cybersecurity)
+<img src="https://img.icons8.com/color/96/road.png" width="70"/>
+</div>
+
+### 🛠 Core Python Concepts
+- [x] Variables, Conditionals, Loops  
+- [x] Functions & Recursion  
+- [ ] File Handling  
+- [ ] Regular Expressions  
+- [ ] OOP & Modules  
+- [ ] Exception Handling  
+- [ ] Multithreading / Async  
+- [ ] Networking (sockets, scapy)  
+
+### 🔐 Cybersecurity Specialization
+- [ ] SOC Analyst – log parsing, SIEM automation  
+- [ ] Penetration Testing – exploit dev, payload scripting  
+- [ ] Incident Response – forensic scripting  
+- [ ] Malware Analysis – PE file parsing, YARA rules  
+- [ ] Cloud Security – boto3, GCP SDK, Azure SDK  
 
 ---
 
-## 🤝 How to Contribute
-1. Fork the repo  
-2. Add your script / resource  
-3. Submit a Pull Request  
-4. Join the **Discussions** for project ideas  
+<div align="center">
+
+## ⚙️ Ecosystem Tools & Frameworks
+<img src="https://img.icons8.com/color/96/toolbox.png" width="70"/>
+</div>
+
+- **Libraries:** scapy, pwntools, cryptography, pandas  
+- **Frameworks:** Metasploit Python APIs, Volatility  
+- **Automation:** Ansible, Fabric, Paramiko  
+- **Cloud Security:** boto3 (AWS), Google Cloud Python SDK  
 
 ---
 
-## 🚀 Starter Projects
-- [ ] Port Scanner (`scapy`)  
-- [ ] Log Analyzer (`pandas`)  
-- [ ] Brute-force password cracker  
-- [ ] Cloud security checker (AWS boto3)  
+<div align="center">
+
+## 🎯 Current Focus
+<img src="https://img.icons8.com/color/96/target.png" width="70"/>
+</div>
+
+🔹 Building small projects in **Python for Cybersecurity**:  
+- Log analyzer for SOC  
+- Simple port scanner  
+- Brute-force password script  
+- Cloud security checker  
 
 ---
 
-🌍 Join us in learning Python for Cybersecurity!
+<div align="center">
+
+## 🌍 Connect With Me
+<img src="https://img.icons8.com/color/96/networking-manager.png" width="70"/>
+</div>
+
+- 📧 Email: mr.idealspirit@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/yourname](#)  
+- 🐍 GitHub Community: [Python-Cybersecurity-Community](#)  
