@@ -120,11 +120,19 @@ Feel free to fork, clone, and contribute!
 
 <div align="center" id="contributing">
 
-# **🛠️ Contributing**
+## Contributors Guide
 
-</div>
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+  If you want to help me improve the repository, you can fork the project and add your own features or updates then pull request and add me as reviewer
+  When you find out error, don't hesitate to correct it .
+  ```mermaid
+flowchart LR
+    Star[Star the Repository]-->Fork
+    Fork[Fork the project]-->branch[Create a New Branch]
+    branch-->Edit[Edit file]
+    Edit-->commit[Commit the changes]
+    commit -->|Finally|creatpr((Create a Pull Request))
+    
+ ```
 
 ---
 
